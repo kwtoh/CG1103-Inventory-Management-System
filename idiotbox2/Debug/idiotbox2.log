@@ -1,0 +1,51 @@
+﻿Build started 4/7/2012 7:46:04 PM.
+     1>Project "C:\Users\Shubhendra Agrawal\Documents\Visual Studio 2010\Projects\idiotbox2\idiotbox2\idiotbox2.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\idiotbox2.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt PrintList.cpp
+         PrintList.cpp
+       CoreResGen:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Shubhendra Agrawal\Documents\Visual Studio 2010\Projects\idiotbox2\Debug\idiotbox2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /ASSEMBLYRESOURCE:"Debug\idiotbox2.add product form.resources" /ASSEMBLYRESOURCE:"Debug\idiotbox2.Restock product.resources" /ASSEMBLYRESOURCE:"Debug\idiotbox2.Search Product.resources" /MANIFEST /ManifestFile:"Debug\idiotbox2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Shubhendra Agrawal\Documents\Visual Studio 2010\Projects\idiotbox2\Debug\idiotbox2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Shubhendra Agrawal\Documents\Visual Studio 2010\Projects\idiotbox2\Debug\idiotbox2.lib" /MACHINE:X86 Debug\idiotbox2.exe.embed.manifest.res
+         "Debug\add product form.obj"
+         Debug\AddProduct.obj
+         Debug\API.obj
+         Debug\BatchJobs.obj
+         Debug\CheckExpiry.obj
+         Debug\DeleteProduct.obj
+         Debug\InterfaceIO.obj
+         Debug\Jobs.obj
+         Debug\LoadData.obj
+         Debug\Main.obj
+         Debug\Menus.obj
+         Debug\PerishableProduct.obj
+         Debug\PrintList.obj
+         Debug\Product.obj
+         Debug\ResetSales.obj
+         "Debug\Restock product.obj"
+         Debug\Restock.obj
+         Debug\Sales.obj
+         "Debug\Search Product.obj"
+         Debug\Search.obj
+         Debug\Statistics.obj
+         Debug\User.obj
+         Debug\WriteData.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\idiotbox2.exe.embed.manifest" /manifest Debug\idiotbox2.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         idiotbox2.vcxproj -> C:\Users\Shubhendra Agrawal\Documents\Visual Studio 2010\Projects\idiotbox2\Debug\idiotbox2.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\idiotbox2.unsuccessfulbuild".
+         Touching "Debug\idiotbox2.lastbuildstate".
+     1>Done Building Project "C:\Users\Shubhendra Agrawal\Documents\Visual Studio 2010\Projects\idiotbox2\idiotbox2\idiotbox2.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.93
